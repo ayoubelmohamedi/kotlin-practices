@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bVPq4lAtRFOT9Q1SQLoajFmBIc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GymNation" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Kotlin.SecondClassKt">
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyClass" />
+      <module name="learningKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SecondClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyClass" />
+      <item itemvalue="Kotlin.Unnamed" />
+      <item itemvalue="Kotlin.MainClassKt" />
+      <item itemvalue="Kotlin.SecondClassKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SecondClassKt" />
+        <item itemvalue="Kotlin.MainClassKt" />
+        <item itemvalue="Application.MyClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="" />
+      <created>1588714474828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588714474828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1675" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588715636377">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1675" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588715636377" />
+    <state x="1813" y="240" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588715635349">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1813" y="240" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588715635349" />
+    <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588794285267">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588794285267" />
+    <state width="1394" height="292" key="GridCell.Tab.0.bottom" timestamp="1589084354841">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="292" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589084354841" />
+    <state width="1394" height="292" key="GridCell.Tab.0.center" timestamp="1589084354841">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="292" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589084354841" />
+    <state width="1394" height="292" key="GridCell.Tab.0.left" timestamp="1589084354841">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="292" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589084354841" />
+    <state width="1394" height="292" key="GridCell.Tab.0.right" timestamp="1589084354841">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state width="1394" height="292" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589084354841" />
+    <state x="1742" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1589054263419">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1742" y="276" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589054263419" />
+  </component>
+</project>
