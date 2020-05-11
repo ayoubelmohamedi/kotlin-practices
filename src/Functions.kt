@@ -33,7 +33,7 @@ fun addMyName(myName: String) {
 //using this is fair too : fun getName(firstName: String, lastName: String) = "$firstName $lastName"
 fun getName(firstName: String, lastName: String): String = "$firstName $lastName"
 
-//default functions useful in inheritance
+//default functions useful in inheritance when overriding
 fun read(b: Array<Int>, off: Int = 0, len: Int = b.size) : Int {
     var i = off
     var total = 0
