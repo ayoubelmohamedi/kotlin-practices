@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/SecondClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/SecondClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SecondClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -38,10 +38,23 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Kotlin.SecondClassKt">
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass" />
       <module name="learningKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,9 +103,11 @@
       <item itemvalue="Kotlin.Unnamed" />
       <item itemvalue="Kotlin.MainClassKt" />
       <item itemvalue="Kotlin.SecondClassKt" />
+      <item itemvalue="Kotlin.FunctionsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.SecondClassKt" />
         <item itemvalue="Kotlin.MainClassKt" />
         <item itemvalue="Application.MyClass" />
@@ -125,30 +140,34 @@
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
     <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588794285267" />
-    <state width="1394" height="397" key="GridCell.Tab.0.bottom" timestamp="1589154159215">
+    <state width="1394" height="397" key="GridCell.Tab.0.bottom" timestamp="1589159480826">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="397" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589154159215" />
+    <state width="1394" height="397" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589159480826" />
     <state width="1374" height="292" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589086461516" />
-    <state width="1394" height="397" key="GridCell.Tab.0.center" timestamp="1589154159215">
+    <state width="1394" height="397" key="GridCell.Tab.0.center" timestamp="1589159480826">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="397" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589154159215" />
+    <state width="1394" height="397" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589159480826" />
     <state width="1374" height="292" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589086461516" />
-    <state width="1394" height="397" key="GridCell.Tab.0.left" timestamp="1589154159214">
+    <state width="1394" height="397" key="GridCell.Tab.0.left" timestamp="1589159480826">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="397" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589154159214" />
+    <state width="1394" height="397" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589159480826" />
     <state width="1374" height="292" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589086461515" />
-    <state width="1394" height="397" key="GridCell.Tab.0.right" timestamp="1589154159215">
+    <state width="1394" height="397" key="GridCell.Tab.0.right" timestamp="1589159480826">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="397" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589154159215" />
+    <state width="1394" height="397" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589159480826" />
     <state width="1374" height="292" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589086461516" />
     <state x="229" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1589122812833">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="1742" y="276" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589054263419" />
     <state x="229" y="200" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589122812833" />
+    <state x="1750" y="201" key="run.anything.popup" timestamp="1589154936134">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1750" y="201" key="run.anything.popup/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1589154936134" />
   </component>
 </project>
