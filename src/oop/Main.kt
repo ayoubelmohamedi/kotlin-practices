@@ -1,5 +1,6 @@
 package oop
 
-class Main {
+fun main() {
+    val person1 = Person("Ayoub elmohamedi", 20);
 
 }
