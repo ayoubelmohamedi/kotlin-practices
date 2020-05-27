@@ -68,7 +68,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oop.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.primaryConstructor.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,6 +157,10 @@
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
     <state x="1813" y="240" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588715635349" />
+    <state x="1839" y="90" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1590578584479">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1839" y="90" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590578584479" />
     <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl" timestamp="1588794285267">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>

@@ -1,4 +1,4 @@
-package oop
+package oop.primaryConstructor
 
 //primary constructor
 //The primary constructor is part of the class header: it goes after the class name (and optional type parameters).
