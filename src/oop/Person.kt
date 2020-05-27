@@ -11,9 +11,7 @@ class Person(name: String, personAge: Int) {
 
     // initializer block is prefixed with "init"
     init {
-
         println("full name = $fullName")
         println("age = $age")
     }
-
-}
+ }
