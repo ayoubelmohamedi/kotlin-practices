@@ -4,7 +4,7 @@ fun main() {
 
     val p1 = AuthLog("Bad Password")
 }
-
+//By default, Kotlin classes are final: they can’t be inherited. To make a class inheritable, mark it with the open keyword.
 open class Log {
     var data: String = ""
     var numberOfData = 0
@@ -21,7 +21,7 @@ open class Log {
 }
 
 class AuthLog : Log {
-    constructor(_data: String) : this("From AuthLog -> " + _data, 10) {
+    constructor(_data: String) : this("From AuthLog -> $_data", 10) {
     }
 
     constructor(_data: String, _numberOfData: Int) : super(_data, _numberOfData) {
