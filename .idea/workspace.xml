@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/secondaryConstructor/Example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/MainClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/MainClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/oop/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/oop/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

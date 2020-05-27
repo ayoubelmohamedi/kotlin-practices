@@ -1,7 +1,7 @@
 package oop
 
 //primary constructor
-
+//The primary constructor is part of the class header: it goes after the class name (and optional type parameters).
 class Person(name: String, personAge: Int) {
 
     //initialize variable immediately after being created
