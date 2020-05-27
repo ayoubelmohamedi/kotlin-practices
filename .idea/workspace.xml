@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/encapsulation/Getter&amp;&amp;Setter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/FunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/META-INF/learningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/META-INF/learningKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/MainClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/MoreFunctionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/RecursionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/SecondClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/Structure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/visibilityModifiers/VidibilityModifiers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/visibilityModifiers/VidibilityModifiers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/encapsulation/additionalLogic.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +46,20 @@
       <recent name="$PROJECT_DIR$/src/oop/primaryConstructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Getter__SetterKt">
+  <component name="RunManager" selected="Kotlin.AdditionalLogicKt">
+    <configuration name="AdditionalLogicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oop.encapsulation.AdditionalLogicKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="learningKotlin" />
       <option name="VM_PARAMETERS" />
@@ -109,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="learningKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="oop.Recursion.RecursionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
       <module name="learningKotlin" />
       <option name="VM_PARAMETERS" value="" />
@@ -137,19 +127,19 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.Unnamed" />
-      <item itemvalue="Kotlin.RecursionKt" />
       <item itemvalue="Kotlin.MainKt" />
       <item itemvalue="Kotlin.ExampleKt" />
       <item itemvalue="Kotlin.InheritanceKt" />
       <item itemvalue="Kotlin.Getter__SetterKt" />
+      <item itemvalue="Kotlin.AdditionalLogicKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AdditionalLogicKt" />
         <item itemvalue="Kotlin.Getter__SetterKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.ExampleKt" />
         <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin.RecursionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,25 +177,25 @@
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
     <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588794285267" />
-    <state width="1394" height="252" key="GridCell.Tab.0.bottom" timestamp="1590608876702">
+    <state width="1394" height="252" key="GridCell.Tab.0.bottom" timestamp="1590609389829">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590608876702" />
+    <state width="1394" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590609389829" />
     <state width="1394" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
-    <state width="1394" height="252" key="GridCell.Tab.0.center" timestamp="1590608876702">
+    <state width="1394" height="252" key="GridCell.Tab.0.center" timestamp="1590609389829">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="252" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590608876702" />
+    <state width="1394" height="252" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590609389829" />
     <state width="1394" height="252" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
-    <state width="1394" height="252" key="GridCell.Tab.0.left" timestamp="1590608876702">
+    <state width="1394" height="252" key="GridCell.Tab.0.left" timestamp="1590609389829">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="252" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590608876702" />
+    <state width="1394" height="252" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590609389829" />
     <state width="1394" height="252" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
-    <state width="1394" height="252" key="GridCell.Tab.0.right" timestamp="1590608876702">
+    <state width="1394" height="252" key="GridCell.Tab.0.right" timestamp="1590609389829">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state width="1394" height="252" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590608876702" />
+    <state width="1394" height="252" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590609389829" />
     <state width="1394" height="252" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
     <state x="1742" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1590576928252">
       <screen x="1366" y="0" width="1440" height="900" />
