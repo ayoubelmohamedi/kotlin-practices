@@ -1,4 +1,4 @@
-/*two types of function in kotlin
+package oop.Functions/*two types of function in kotlin
 
 -- Kotlin Standard Library Function
 -- User-defined functions
@@ -36,7 +36,7 @@ fun addMyName(myName: String) {
 }
 
 //two arg type String and result type String, with = instead of curly braces {}
-//using this is fair too : fun getName(firstName: String, lastName: String) = "$firstName $lastName"
+//using this is fair too : fun oop.Functions.getName(firstName: String, lastName: String) = "$firstName $lastName"
 fun getName(firstName: String, lastName: String): String = "$firstName $lastName"
 
 //default functions useful in inheritance when overriding

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43a76b8-efaf-409a-a639-abd45b8f3449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/Inheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
       <recent name="oop.primaryConstructor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/oop/Functions" />
       <recent name="$PROJECT_DIR$/src/oop/primaryConstructor" />
     </key>
   </component>
@@ -91,7 +93,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MoreFunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.Functions.MoreFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,7 +106,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="RecursionKt" />
+      <option name="MAIN_CLASS_NAME" value="oop.Recursion.RecursionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,26 +177,26 @@
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
     <state x="1869" y="207" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1588794285267" />
-    <state width="1394" height="252" key="GridCell.Tab.0.bottom" timestamp="1590578180795">
-      <screen x="1366" y="0" width="1440" height="900" />
+    <state width="1394" height="252" key="GridCell.Tab.0.bottom" timestamp="1590580296384">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1394" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590578180795" />
-    <state width="1394" height="397" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589246020962" />
-    <state width="1394" height="252" key="GridCell.Tab.0.center" timestamp="1590578180794">
-      <screen x="1366" y="0" width="1440" height="900" />
+    <state width="1394" height="252" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
+    <state width="1394" height="252" key="GridCell.Tab.0.center" timestamp="1590580296384">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1394" height="252" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590578180794" />
-    <state width="1394" height="397" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589246020962" />
-    <state width="1394" height="252" key="GridCell.Tab.0.left" timestamp="1590578180794">
-      <screen x="1366" y="0" width="1440" height="900" />
+    <state width="1394" height="252" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
+    <state width="1394" height="252" key="GridCell.Tab.0.left" timestamp="1590580296384">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1394" height="252" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590578180794" />
-    <state width="1394" height="397" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589246020961" />
-    <state width="1394" height="252" key="GridCell.Tab.0.right" timestamp="1590578180794">
-      <screen x="1366" y="0" width="1440" height="900" />
+    <state width="1394" height="252" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
+    <state width="1394" height="252" key="GridCell.Tab.0.right" timestamp="1590580296384">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1394" height="252" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@1366.0.1440.900" timestamp="1590578180794" />
-    <state width="1394" height="397" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1589246020962" />
+    <state width="1394" height="252" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1440.900@67.27.1299.741" timestamp="1590580296384" />
     <state x="1742" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1590576928252">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>

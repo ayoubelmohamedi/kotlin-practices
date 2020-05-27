@@ -1,3 +1,5 @@
+package oop.Functions
+
 fun main() {
     //val a = 5 || val a : Int ,and then i can intialize the variable later
     val str: Byte = 6
