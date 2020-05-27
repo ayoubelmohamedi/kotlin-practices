@@ -7,7 +7,6 @@ package oop.visibilityModifiers
 
 //Note : if visibility modifier is not specified, it is public by default. same as java
 
-
 fun function1() {}   // public by default and visible everywhere
 
 private fun function2() {}   // visible inside this file
